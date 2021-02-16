@@ -1,6 +1,6 @@
 /* Select the image with a class of kitty-1 */
 
-/*__write_selector_here__*/.kitty-5 {
+/*__write_selector_here__*/#ball {
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-/*__write_selector_here__*/#ball {
+/*__write_selector_here__*/ {
   position: absolute;
   z-index: 5;
   top: 291px;
