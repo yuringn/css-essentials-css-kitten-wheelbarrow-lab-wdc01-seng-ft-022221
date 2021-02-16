@@ -9,7 +9,7 @@
 
 /* Select the image with id of kitty-2 */
 
-/*__write_selector_here__*/ #wheelbarrow-foreground + img{
+/*__write_selector_here__*/ img[alt="Kitty 5"]{
   position: absolute;
   z-index: 2;
   top: 212px;
