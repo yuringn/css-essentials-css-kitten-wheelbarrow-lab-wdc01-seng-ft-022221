@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-/*__write_selector_here__*/ #ball{
+/*__write_selector_here__*/ .kitty-2{
   position: absolute;
   z-index: 5;
   top: 291px;
